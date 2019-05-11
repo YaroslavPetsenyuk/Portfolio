@@ -1,0 +1,93 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    font-size: 16px; 
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    line-height: 1.8em;
+    color: #666;
+}
+
+.pageImage1 {
+    background-image: url("../images/scraper-blue.jpg");
+    min-height: 100%;
+}
+
+.pageImage2 {
+    background-image: url("../images/chicago.jpg");
+    min-height: 100%;
+}
+.pageImage3 {
+    background-image: url("../images/sears.jpg");
+    min-height: 100%;
+}
+
+.pageImage1, .pageImage2, .pageImage3 {
+    position: relative;
+    opacity: 0.75;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.text {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: #000;
+    font-size: 50px;
+    letter-spacing: 8px;  
+}
+
+.border {
+    background-color: #000 ;
+    color: #fff;
+    padding: 20px;
+    display: inline-block;
+    opacity: 0.90
+}
+
+.intro {
+    color: #fff;
+}
+
+.name-text {
+    font-size: 50px;
+}
+
+.details {
+    font-size: 18px;
+}
+
+#about {
+    margin-top: 40px;
+    margin-bottom:40px;
+}
+
+/* @Media(max-width: 568px) {
+    .pageImage1, .pageImage2, .pageImage3 {
+        background-attachment: scroll;
+    }
+} */
+
+.light-section {
+    background-color: #f4f4f4;
+}
+
+.section {
+    text-align: center;
+    padding: 50px 80px;
+}
+
+.container {
+    width: 100%;
+}
+
+.app {
+    background-color: green;
+}
+.code {
+    background-color: red;
+}

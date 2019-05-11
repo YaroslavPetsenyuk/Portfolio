@@ -1,0 +1,79 @@
+/* body {
+    background-image: url("../images/122.jpg");
+}
+.jumbotron {
+    background-image: url("../images/31.jpg");
+    opacity: 0.87;
+    height: 300px;
+}
+
+.display-4 {
+    color: #99ccff;
+}
+
+.lead {
+    color: #ffffff;
+    clear: both;
+    overflow: auto;
+    
+}
+
+.parallax { 
+    /* The image used */
+    /* background-image: url("img_parallax.jpg"); */
+  
+    /* Set a specific height */
+    /* height: 500px;  */
+  
+    /* Create the parallax scrolling effect */
+    /* background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; */
+  /* }
+
+.picture {
+    float: right;
+}
+
+.col-lg-6 {
+    display: block;
+    background: #ffffff;
+}
+
+.sidenav {
+    height: 100%;
+    width: 300px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-image: url("../images/31.jpg");
+    overflow-x: hidden;
+    padding-top: 20px;
+    opacity: 0.85;
+  }
+  
+  .sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+  }
+  
+  .sidenav a:hover {
+    color: #f1f1f1;
+  }
+  
+  .main { */
+    /* margin-left: 160px; Same as the width of the sidenav */
+    /* font-size: 28px; /* Increased text to enable scrolling */
+    /* padding: 0px 10px;
+  } */
+  
+  /* @media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+  }  */
+   

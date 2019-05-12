@@ -9,7 +9,7 @@ body, html {
 }
 
 .pageImage1 {
-    background-image: url("../images/scraper-blue.jpg");
+    background-image: url("../images/newyork.jpg");
     min-height: 100%;
 }
 
@@ -22,13 +22,17 @@ body, html {
     min-height: 100%;
 }
 .pageImage4 {
-    background-image: url("../images/road.jpg");
+    background-image: url("../images/bigben.jpg");
+    min-height: 100%;
+}
+.pageImage5 {
+    background-image: url("../images/sunset.jpg");
     min-height: 100%;
 }
 
-.pageImage1, .pageImage2, .pageImage3, .pageImage4 {
+.pageImage1, .pageImage2, .pageImage3, .pageImage4, .pageImage5 {
     position: relative;
-    opacity: 0.75;
+    opacity: 1;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;

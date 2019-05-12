@@ -21,8 +21,12 @@ body, html {
     background-image: url("../images/sears.jpg");
     min-height: 100%;
 }
+.pageImage4 {
+    background-image: url("../images/road.jpg");
+    min-height: 100%;
+}
 
-.pageImage1, .pageImage2, .pageImage3 {
+.pageImage1, .pageImage2, .pageImage3, .pageImage4 {
     position: relative;
     opacity: 0.75;
     background-position: center;
@@ -85,9 +89,3 @@ body, html {
     width: 100%;
 }
 
-.app {
-    background-color: green;
-}
-.code {
-    background-color: red;
-}

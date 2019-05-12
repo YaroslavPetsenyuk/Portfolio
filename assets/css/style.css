@@ -45,7 +45,7 @@ body, html {
     width: 100%;
     text-align: center;
     color: #000;
-    font-size: 50px;
+    font-size: 35px;
     letter-spacing: 8px;  
 }
 
@@ -62,7 +62,7 @@ body, html {
 }
 
 .name-text {
-    font-size: 50px;
+    font-size: 35px;
 }
 
 .details {
@@ -73,12 +73,6 @@ body, html {
     margin-top: 40px;
     margin-bottom:40px;
 }
-
-@Media(max-width: 568px) { */
-    .pageImage1, .pageImage2, .pageImage3 {
-        background-attachment: scroll;
-    }
-} */
 
 .light-section {
     background-color: #f4f4f4;
@@ -93,3 +87,12 @@ body, html {
     width: 100%;
 }
 
+.lead {
+    font-size: 25px;
+}
+
+@Media(max-width: 568px) { */
+    .pageImage1, .pageImage2, .pageImage3 {
+        background-attachment: scroll;
+    }
+}

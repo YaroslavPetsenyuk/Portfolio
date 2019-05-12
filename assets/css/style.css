@@ -74,7 +74,7 @@ body, html {
     margin-bottom:40px;
 }
 
-/* @Media(max-width: 568px) {
+@Media(max-width: 568px) { */
     .pageImage1, .pageImage2, .pageImage3 {
         background-attachment: scroll;
     }

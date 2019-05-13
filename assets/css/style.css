@@ -91,8 +91,8 @@ body, html {
     font-size: 25px;
 }
 
-@Media(max-width: 568px) { */
+/* @Media(max-width: 568px) {
     .pageImage1, .pageImage2, .pageImage3 {
         background-attachment: scroll;
     }
-}
+} */
